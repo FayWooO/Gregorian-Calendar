@@ -1,7 +1,7 @@
 from main_f_g import main_g
 from main_f_j import main_j
 
-
+#final combined version for the task
 while True:
     type_calendar = input("Please enter the type of calendar ('g' for Gregorian Calendar and 'j' for Julian Calendar): ")
     type_calendar = type_calendar.lower()
