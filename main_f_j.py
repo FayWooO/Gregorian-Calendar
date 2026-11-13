@@ -2,7 +2,7 @@ from calendar_output_j import calendar_output_j
 from calendar_output_bc_j import calendar_output_bc_j
 
 
-def main_j():
+def main_j(): #same logic except name diff refer to file main_f_g.py
     print()
     print("*******Julian Calendar Calculator********")
     while True:
